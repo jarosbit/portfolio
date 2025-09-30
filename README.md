@@ -1,36 +1,37 @@
 #portfolio
-# 👋 Привет, я JarosBit  
+# 👋 Hi, I'm JarosBit  
 
-🚀 Трейдер, инвестор и энтузиаст крипты | ♠️ Любитель покера | 💻 Создаю проекты на пересечении блокчейна и аналитики  
-
----
-
-## 🔥 Мои проекты
-- 📊 **Crypto Trading Bots** – алгоритмы для торговли и арбитража (CEX/DEX, funding farming)  
-- ♠️ **Poker Analyzer** – скрипты и таблицы для анализа турниров и кеш-игр  
-- 📈 **DeFi Research** – заметки и эксперименты с Plasma, Bybit Megadrop, CoinList и др.  
+🚀 Crypto trader, investor, and DeFi enthusiast | ♠️ Poker player | 💻 Building projects at the intersection of blockchain and analytics  
 
 ---
 
-## 🛠️ Стек
-- **Языки**: Python, JavaScript, SQL  
-- **Инструменты**: GitHub, Jupyter, TradingView, Excel, Telegram Bots  
-- **Крипта**: DeFi, DEX/CEX, арбитраж, лаунчпады, стейкинг  
+## 🔥 My Projects
+- 📊 **Crypto Trading Bots** – algorithms for trading and arbitrage (CEX/DEX, funding farming)  
+- ♠️ **Poker Analyzer** – scripts and tools for analyzing tournaments and cash games  
+- 📈 **DeFi Research** – notes and experiments with Plasma, Bybit Megadrop, CoinList, and more  
 
 ---
 
-## 🎯 Цели
-- 💡 Делать открытые проекты для комьюнити трейдеров и игроков  
-- 🏗️ Делиться полезными инструментами для анализа сделок и рынков  
-- 📚 Прокачивать GitHub, добавляя новые репозитории каждую неделю  
+## 🛠️ Tech Stack
+- **Languages**: Python, JavaScript, SQL  
+- **Tools**: GitHub, Jupyter, TradingView, Excel, Telegram Bots  
+- **Crypto**: DeFi, DEX/CEX, arbitrage, launchpads, staking  
 
 ---
 
-## 📬 Контакты
+## 🎯 Goals
+- 💡 Create open-source tools for traders and poker players  
+- 🏗️ Share useful scripts and strategies for market analysis  
+- 📚 Grow my GitHub with new repositories every week  
+
+---
+
+## 📬 Contacts
 - Telegram: [@JarosVolod](https://t.me/@JarosVolod)  
 - Twitter/X: [@Yarkowin](https://x.com/@Yarkowin)  
 - Email: mineryaroslav2020@gmail.com  
 
 ---
 
-⭐ Если понравилось — жми **Star** и следи за обновлениями!
+⭐ If you like this, hit **Star** and follow for updates!
+
